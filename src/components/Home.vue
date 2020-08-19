@@ -6,7 +6,7 @@
       <div class="avatar_box">
           <img src="../assets/logo.png" alt="">
       </div>
-      <span>毕设互选系统</span>
+      <span>理发店会员管理系统</span>
     </div>
     <el-button type="info" @click="logout">退出
   </el-button></el-header>
